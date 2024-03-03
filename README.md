@@ -1,5 +1,6 @@
 # Fluid-in-a-box
-Project realized from Mattia Tinfena and Angelo Massara
+Project realized from Mattia Tinfena and Angelo Massara.
+
 In this project, we simulated the behavior of a fluid in a box, through the cellular automata model. Particularly we focused the attenction on two specific fluids: sand and water. Our aim is to show how the particles which composethe fluid interact with each other when we rotate the box (and hence the frame).  
 
 The project consists of two parts:
